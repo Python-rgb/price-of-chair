@@ -11,7 +11,7 @@ E-mails are sent via executing the `src/alert_updater.py` file. In order to chec
 
 It parses the store websites using `requests` and `BeautifulSoup`.
 
-It **does not work with Stores that dynamically inject content using JavaScript**.
+**It does not work with Stores that dynamically inject content using JavaScript**.
 
 It allows users to register, log in, and create and modify their alerts.
 
